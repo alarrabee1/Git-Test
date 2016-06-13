@@ -11,6 +11,7 @@ namespace Git_Test
         static void Main(string[] args)
         {
             var changeSomething = "Change Something";
+            var branchOne = "Branch One Change";
         }
     }
 }
